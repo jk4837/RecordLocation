@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Record Location: Record here",
+        "command": "record_location"
+    },
+    {
+        "caption": "Record Location: Stop record",
+        "command": "record_location_stop"
+    },
+    {
+        "caption": "Record Location: Load record list",
+        "command": "record_location_load"
+    },
+    {
+        "caption": "Record Location: Show location list",
+        "command": "record_location_list"
+    },
+    {
+        "caption": "Record Location: Go to next",
+        "command": "record_location_next"
+    },
+    {
+        "caption": "Record Location: Go to prev",
+        "command": "record_location_prev"
+    }
+]
